@@ -1,3 +1,2 @@
 # github_tutorial
-this is cancer genemics course github toturial for bioinformatic 
-#writing on github
+this is cancer genemics course github toturial for bioinformatic writing on github
